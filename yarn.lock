@@ -3147,6 +3147,11 @@ find-yarn-workspace-root@~2.0.0:
   dependencies:
     micromatch "^4.0.2"
 
+flow-bin@^0.176.3:
+  version "0.176.3"
+  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.176.3.tgz#d32de04e044ab474afe543b9fd245608bb6a6ac8"
+  integrity sha512-lbNqgjr2GlGLAEVp5+dhG4LdnFE7ekbvVNifAdlvTx58/nE8GrCOMiUwEQy4dLnfL2NIRMk2dbEVTrugeQJ3mA==
+
 flow-parser@0.*:
   version "0.191.0"
   resolved "https://registry.yarnpkg.com/flow-parser/-/flow-parser-0.191.0.tgz#0fe7eb4be505f443c067c47f795153bf3b87c7d7"

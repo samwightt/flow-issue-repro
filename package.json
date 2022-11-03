@@ -15,7 +15,8 @@
     "react-native": "0.69.6"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.12.9",
+    "flow-bin": "^0.176.3"
   },
   "private": true
 }
